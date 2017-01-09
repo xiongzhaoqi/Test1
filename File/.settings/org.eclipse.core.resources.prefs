@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/org/softedu/file/bean=UTF-8
+encoding//src/org/softedu/file/dao=UTF-8
+encoding//src/org/softedu/file/filter=UTF-8
+encoding//src/org/softedu/file/servlet=UTF-8
+encoding//src/org/softedu/file/util=UTF-8
+encoding//src/org/softedu/file/util/CurrentPage.java=UTF-8
+encoding//src/org/softedu/file/util/DBUtil.java=UTF-8
+encoding//src/org/softedu/file/util/DateUtil.java=UTF-8
+encoding//src/org/softedu/file/util/DepartConnect.java=UTF-8
+encoding//src/org/softedu/file/util/EmployeConn.java=UTF-8
+encoding//src/org/softedu/file/util/FileUtil.java=UTF-8
+encoding/<project>=UTF-8
+encoding/WebRoot=UTF-8
+encoding/src=UTF-8

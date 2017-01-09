@@ -1,0 +1,77 @@
+body {
+	background-image: url(../img/beijing.jpg);
+	background-repeat: no-repeat;
+}
+
+.font1 {
+	font-size: 60;
+	position:absolute;
+	left: 60px;
+	top:50px;
+	width: 500px;
+}
+
+.font2 {
+	font-size: 30;
+	position:absolute;
+	left:130px;
+	top:200px;
+	width: 150px;
+}
+.font3{
+	font-size: 20px;
+	position:absolute;
+	left:130px;
+	top:250px;
+	width: 500px;
+}
+.font4{
+	padding: 20px,0,0,0;
+}
+.font5{
+	position:absolute;
+	width:350px;
+	left: 500px;
+	top:190px;
+}
+.button{
+	position:absolute;
+	left:200px;
+	top:350px;
+}
+.biao{
+	position: absolute;
+	left: 100px;
+	top: 485px;
+}
+.biao2{
+	position: absolute;
+	width: 100px;
+}
+.ren{
+	position:absolute;
+	top: 480px;
+	left: 300px;
+}
+.ren2{
+	position:absolute;
+	width: 100px;
+}
+.diannao{
+	position:absolute;
+	left:500px;
+	top: 480px;
+}
+.diannao2{
+	position:absolute;
+	width: 100px;
+}
+.xin{
+	position:absolute;
+	left:700px;
+	top: 480px;
+}
+.xin2{
+	position:absolute;
+	width: 100px;
+}

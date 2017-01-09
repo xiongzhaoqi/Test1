@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+body{
+background-image: url("img/beijing.jpg");
+}
+.font1{
+ font-weight:600;
+ font-size: 60px;
+ color: rgb(175,221,234); 
+ margin-left: 106px;
+ margin-top: 50px;	
+}
+.font2{
+font-style:normal;
+font-weight:600;
+font-size: 20px;
+color: rgb(147,157,166); 
+margin-left: 120px;
+margin-top: 80px;	
+}
+.font3{
+font-style:normal;
+margin-left: 144px;
+margin-top: 30px;
+}
+.font4{
+font-style:normal;
+margin-left: 144px;
+margin-top: 10px;
+}
+.font5{
+font-style:normal;
+margin-left: 180px;
+margin-top: 15px;	
+}
+.sub2{
+background-image: url("img/sub1.jpg");
+background-repeat:repeat-y;
+height:20px;
+margin-left: 180px;
+margin-top: 15px;	
+}
+.img1{
+background-image: url("img/sub2.jpg");
+margin-top:10px;
+margin-left: 50px;
+}
+	

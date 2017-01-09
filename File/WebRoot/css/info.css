@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+.body{
+background-image: url(../img/manager.jpg);
+width: 819px;
+height: 596px;
+}
+.head1{
+margin-left: 20px;
+margin-top: 85px;
+color:#0033FF;
+font-size:20px;
+font-weight: 600;
+text-decoration: none;
+}
+.head2{
+margin-left: 20px;
+color:#0033FF;
+font-size:15px;
+text-decoration: none;
+}
+.head3{
+margin-left: 60px;
+color:#0033FF;
+font-size:15px;
+text-decoration: none;
+}
+.bodyr{
+color:#0033FF
+font-size:22px;
+text-decoration: none;
+}
+.right{
+float:right;
+margin-right:10px;
+margin-top: 80px;
+width: 120px;
+height: 200px;
+}
+
+.left{
+float:left;
+margin-left:10px;
+margin-top: 50px;
+width: 550px;
+height: 310px;
+}
+.employehead1{
+margin-left: 40px;
+margin-top: 85px;
+color:#0033FF;
+font-size:15px;
+text-decoration: none;
+}
+.employehead2{
+margin-left: 140px;
+color:#0033FF;
+font-size:15px;
+text-decoration: none;
+}
+
+
